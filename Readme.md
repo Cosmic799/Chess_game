@@ -32,8 +32,7 @@ git clone [https://github.com/Cosmic799/Chess_game.git]
 
 <h3> Screenshot </h3>
 
-<img width="959" alt="github_chess_game004550" src="https://github.com/user-attachments/assets/0a4c4e3c-8528-4096-94d0-fac66d689e33">
-
+<img width="959" alt="chess_game" src="https://github.com/user-attachments/assets/ef43fa25-7541-4c31-bf13-9e7a82f0416f">
 
 <h3> Demo </h3>
 
