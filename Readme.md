@@ -17,10 +17,12 @@
 
 ---
 
--https://github.com/Cosmic799/Chess_game.git
-
 - Download or clone the repository
+  
+```
+git clone [https://github.com/Cosmic799/Chess_game.git]
 
+```
 
 
 - Go to the directory
