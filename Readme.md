@@ -33,12 +33,10 @@ git clone [https://github.com/Cosmic799/Chess_game.git]
 <h3> Screenshot </h3>
 
 <img src="<img width="959" alt="github_chess_game004550" src="https://github.com/user-attachments/assets/0a4c4e3c-8528-4096-94d0-fac66d689e33">
-" alt="Screenshot (22)" style="max-width:100%;">
-
 
 
 <h3> Demo </h3>
 
-<a href="[https://cosmic799.github.io/Chess_game/]"> Demo </a>
+<a href="https://cosmic799.github.io/Chess_game/"> Demo </a>
 
 <br>
